@@ -5,6 +5,20 @@
   "target": "https://lestallion.com/blogs/product-reviews/best-rolling-tv-stand",
   "t1_url": "https://ls-tv-cart.surge.sh/",
   "image_url": "https://ls-tv-cart.surge.sh/assets/rolling-tv-stand.webp",
-  "image_source": "https://live.staticflickr.com/8431/7748264942_2aae1b8ae4_b.jpg",
-  "name_note": "Short LS project/site name used; no LeStallion in project/bucket naming."
+  "image_source": "OpenAI Images API (gpt-image-1), compressed to WebP",
+  "github_repo": "https://github.com/ArmarageX/ls-tv-cart",
+  "naming": "Short LS site/repo name used; no LeStallion wording in project/site name.",
+  "verification": {
+    "t1_status": 200,
+    "image_status": 200,
+    "image_content_type": "image/webp",
+    "target_link_count": 2,
+    "t2_pages_live": 6,
+    "trust_pages_live": 3,
+    "word_count": 2195,
+    "schema_count": 6,
+    "faq_visible": true,
+    "no_example_leakage": true,
+    "no_cloud_network_wording": true
+  }
 }
